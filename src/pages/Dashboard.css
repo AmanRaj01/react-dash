@@ -1,0 +1,169 @@
+.coant-dash {
+    max-width: 80%;
+    margin: auto;
+}
+
+.row-1 {
+    min-height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 15px 10px;
+    /* align-items: flex-start; */
+}
+
+.row-2 {
+    min-height: 275px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 10px;
+    /* align-items: flex-start; */
+}
+
+.col-1-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-start;
+    margin: 20px 20px;
+}
+
+.col-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: 20px 20px;
+}
+
+.col-2-1 {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    min-width: 22px;
+    margin: 20px 20px;
+}
+
+.col-2-2 {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    min-width: 50px;
+    margin: 20px 30px;
+}
+
+.col-2 {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    min-width: 50px;
+    margin: 20px 30px;
+}
+
+.col-3-1 {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    min-width: 70px;
+    margin: 20px 30px;
+}
+
+.col-3-2 {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    min-width: 25px;
+    margin: 20px 30px 20px 30px;
+}
+
+.moneyVal {
+    padding: 14px 0px;
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+.icons-3 {
+    margin: 0px 5px;
+}
+
+.huge-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 250px;
+}
+
+.huge-box-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    min-height: 250px;
+}
+
+.search-icon {
+    margin: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-text-2 {
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+.small-box {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 10%;
+}
+
+.big-card {
+    margin: 10px 0px;
+    height: 90%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 15px;
+    background-color: rgba(118, 107, 76, 0.2);
+}
+
+.last-card {
+    margin: 10px 0px;
+    height: 100%;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 15px;
+    background-color: rgba(89, 126, 132, 0.2);
+}
+
+.small-card {
+    margin: 10px 0px;
+    height: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 15px;
+    background-color: rgba(89, 126, 132, 0.2);
+}
+
+.small-card-2 {
+    margin: 10px 0px;
+    height: 90%;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 15px;
+    background-color: rgba(89, 126, 132, 0.2);
+}
+
+.month {
+    color: rgba(49, 49, 49, 0.2);
+}
+
+.bottom-text {
+    color: rgba(49, 49, 49, 0.2);
+}
+
+.sweep-right {
+    display: flex;
+    justify-content: flex-end;
+}
